@@ -1,6 +1,8 @@
-# PT-BR
+## PT-BR
+
 # guia-estudos-notebookLM
-LLM treinada para estudos/treinamento e mapeamento de informações sobre vendas high-ticket
+- LLM treinada para estudos/treinamento e mapeamento de informações sobre vendas high-ticket.
+- Este repositório documenta o ambiente de Inteligência Artifiial criado no Google NotebookLM.
 
 ### Objetivo : 
 * Solucionar problemas complexos de negociação comercial.
@@ -134,7 +136,7 @@ Esta seção reúne os principais termos, siglas e metodologias utilizados no ma
 
 3 - Atue como um tutor acadêmico especialista em vendas B2B. Quero revisar os conceitos de vendas complexas e High-Ticket. Crie um questionário interativo de 5 perguntas, uma por uma. Faça a primeira pergunta, espere minha resposta, corrija com base nas melhores práticas de autores como Neil Rackham e Conrado Adolpho, e então prossiga para a próxima.
 
-# EN-US
+## EN-US
 
 # guia-estudos-notebookLM
 LLM trained for studying/training and mapping information regarding high-ticket sales
